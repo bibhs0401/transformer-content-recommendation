@@ -60,3 +60,23 @@ Generated context-aware recommendations that captured semantic similarity.
 Example: an article about “Neural Networks in Healthcare” recommended related content on “Deep Learning for Medical Imaging” and “AI in Diagnostics”.
 
 Plots such as embedding visualizations and similarity heatmaps demonstrated how transformers capture semantic meaning.
+
+## 🎯 Skills Demonstrated
+
+Natural Language Processing (NLP)
+
+Deep Learning with Transformers
+
+Recommender Systems Design
+
+Data Preprocessing & Vectorization
+
+Model Evaluation and Experimentation
+
+## 🔮 Future Work
+
+Extend to hybrid recommendation (content + collaborative filtering).
+
+Explore fine-tuning transformer models for domain-specific datasets.
+
+Deploy as a web-based recommendation API.
